@@ -43,5 +43,8 @@
 
 ###
 
-![GitHub Snake Light](dist/snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](dist/snake-dark.svg#gh-dark-mode-only)
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Ahmed-Mostafa-88 /Ahmed-Mostafa-88 /output/snake.svg" alt="Snake animation" />
+
+###
