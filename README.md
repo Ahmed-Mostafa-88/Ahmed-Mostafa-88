@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Ahmed Mostafa and I'm an Artificial Intelligence Student, from Alexandria University</h2>
+<h2 align="center">Hi 👋! My name is Ahmed Mostafa and I'm an Artificial Intelligence graduate, from Alexandria University</h2>
 
 ###
 
